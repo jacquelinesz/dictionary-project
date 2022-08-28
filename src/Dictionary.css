@@ -1,5 +1,8 @@
-h1 {
+.Dictionary h1 {
   margin: 15px;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 48px;
 }
 .Dictionary h2 {
   font-size: 20px;
