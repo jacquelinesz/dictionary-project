@@ -8,6 +8,9 @@ body {
 }
 .App-header {
   margin: 30px 0;
+  font-family: "Playfair Display", serif;
+  text-align: center;
+  font-size: 48px;
 }
 .App-footer {
   text-align: center;
